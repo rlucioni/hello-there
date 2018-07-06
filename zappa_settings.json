@@ -3,6 +3,7 @@
         "app_function": "hello-there.app",
         "aws_region": "us-east-1",
         "exclude": [
+            "__pycache__",
             ".git/*",
             ".gitignore",
             ".python-version",
